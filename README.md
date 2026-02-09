@@ -69,4 +69,11 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# cd Samples
+python create_samples.py
+
+# run Main file
+python run_demo.py
 ```
+
