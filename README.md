@@ -11,19 +11,6 @@
 
 </div>
 
-## Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## Overview
 
 The **FNOL Agent** is an intelligent document processing system designed to automate the handling of First Notice of Loss (FNOL) insurance claims. It extracts key information from unstructured claim documents, validates the data, and routes claims to appropriate workflows based on configurable business rules.
