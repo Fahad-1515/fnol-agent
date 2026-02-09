@@ -1,0 +1,25 @@
+{
+  "document": "fast_track_claim.txt",
+  "timestamp": "2024-02-05T14:30:00",
+  "status": "success",
+  "extractedFields": {
+    "policy_number": "AUTO-78901234",
+    "policyholder_name": "Sarah Johnson",
+    "date_of_loss": "2024-02-01",
+    "location": "456 Oak Avenue, Springfield, IL 62704",
+    "description": "Vehicle was side-swiped in parking lot while parked. Minor damage to driver's side door and mirror. No other vehicles involved.",
+    "estimated_damage": 8200.0,
+    "claim_type": "vehicle_damage",
+    "asset_id": "2HGFC2F56LH123456",
+    "contact_phone": "5551234567"
+  },
+  "missingFields": [],
+  "validation": {
+    "warnings": [],
+    "errors": [],
+    "inconsistencies": []
+  },
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage ($8,200.00) is below $25,000 threshold",
+  "processingTime": 0.85
+}

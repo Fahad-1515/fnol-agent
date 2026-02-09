@@ -1,0 +1,9 @@
+NOTICE OF LOSS
+
+Policy: ABC123
+Name: John Doe
+Date: Last week
+Car got hit.
+Estimate: Unknown
+
+Need to process quickly.

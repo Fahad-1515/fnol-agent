@@ -1,0 +1,21 @@
+# fnol-agent/.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+output/
+*.log
+.env

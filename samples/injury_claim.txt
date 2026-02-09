@@ -1,0 +1,41 @@
+ACORD AUTOMOBILE LOSS NOTICE
+Form Version: 2016/10
+
+AGENCY INFORMATION:
+Agency: Metro Insurance Services
+
+POLICY INFORMATION:
+Policy Number: HEALTH-456-789
+Named Insured: Michael Chen
+Policy Period: 12/15/2023 - 12/15/2024
+
+LOSS INFORMATION:
+Date of Loss: January 30, 2024
+Time: 09:15 AM
+Location: 789 Broadway at 5th Avenue, Metro City
+Police Report: MCPD-2024-5678
+Description: Multi-vehicle collision at intersection. Insured's vehicle
+was struck from behind, pushing it into vehicle in front. Airbags deployed.
+Driver complained of neck and back pain. Paramedics transported to
+Metro General Hospital for evaluation. X-rays showed minor whiplash.
+
+VEHICLE INFORMATION:
+Year: 2019
+Make: Toyota
+Model: RAV4
+VIN: JTMBFREVXKD123456
+Plate: MC-XYZ789
+
+DAMAGE INFORMATION:
+Estimate Amount: $42,000
+Describe Damage: Severe front and rear damage, airbags deployed,
+frame damage suspected.
+
+INJURY INFORMATION:
+Injured Party: Michael Chen
+Extent of Injury: Neck strain, back pain, whiplash
+Treatment: Hospital evaluation, prescribed pain medication
+
+CONTACT INFORMATION:
+Phone: (555) 987-6543
+Email: mchen@email.com

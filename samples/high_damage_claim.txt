@@ -1,0 +1,33 @@
+COMMERCIAL AUTO CLAIM
+Claim ID: COM-2024-789
+
+BUSINESS INFORMATION:
+Business Name: Quick Delivery Services
+Policy: COMM-555-888
+
+ACCIDENT DETAILS:
+Date: January 25, 2024
+Time: 08:30 AM
+Location: Highway 101, Mile Marker 45
+Description: Commercial delivery truck lost control on wet road,
+collided with guardrail and overturned. Significant damage to truck
+and cargo. Road closure for 3 hours for cleanup.
+
+EQUIPMENT:
+Vehicle: 2022 Ford F-650 Box Truck
+VIN: 1FDXF46P2NEB45678
+Gross Weight: 26,000 lbs
+
+DAMAGE ASSESSMENT:
+Vehicle Damage: $85,000
+Cargo Damage: $15,000
+Total Estimate: $100,000
+Attachments: Police report, photos, driver statement
+
+INJURIES:
+Driver: Minor bruises, released at scene
+
+CONTACT:
+Claims Manager: Lisa Rodriguez
+Phone: (555) 222-3333
+Email: lisa@quickdelivery.com

@@ -1,0 +1,34 @@
+FNOL REPORT - AUTOMOBILE CLAIM
+Claim Reference: CL-2024-001
+Date Submitted: 2024-02-05
+
+POLICY INFORMATION:
+Policy Number: AUTO-78901234
+Policyholder Name: Sarah Johnson
+Effective Dates: 01/01/2024 to 01/01/2025
+
+INCIDENT DETAILS:
+Date of Loss: February 1, 2024
+Time: 14:45 PM
+Location: 456 Oak Avenue, Springfield, IL 62704
+Description: Vehicle was side-swiped in parking lot while parked.
+Minor damage to driver's side door and mirror. No other vehicles involved.
+
+ASSET INFORMATION:
+Asset Type: Automobile
+Vehicle: 2020 Honda Civic
+VIN: 2HGFC2F56LH123456
+Plate: IL-ABC123
+
+DAMAGE ASSESSMENT:
+Estimated Damage: $8,200
+Initial Estimate: $8,200
+Attachments: Photos of damage
+
+INVOLVED PARTIES:
+Claimant: Sarah Johnson
+Contact: (555) 123-4567, sarah.j@email.com
+
+OTHER INFORMATION:
+Claim Type: Vehicle Damage
+Special Instructions: None
